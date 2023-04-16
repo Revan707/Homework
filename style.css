@@ -1,0 +1,28 @@
+ body{
+   background-color: black;
+}
+h1{
+    color: rgb(246, 91, 35);
+    margin-left: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div{
+    background-color:rgb(31, 30, 30);
+    margin: 20px  20px ;
+    padding: 20px 20px ;
+    border-radius: 8px;  
+}
+p{
+  color: rgb(210, 204, 204);
+}
+h3{
+    color: white;
+}
+.date{
+    color:gray;
+    font-size: 2.2ex;
+}
+div:hover{
+    background-color: orangered;
+}
+
